@@ -63,7 +63,9 @@ int main()
 
     }
     else
-        printf("Out of the range. please enter a valid number.\n");
+        printf("Out of the range. Please enter a valid number.\n");
 
     return 0;
 }
+
+// 232-115-088 , 232-115-093 , 232-115-096 , 232-115-102
